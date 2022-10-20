@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rodisolomon, you can call me Helen for sure:)
-- 👀 I know about C/Python(tensorflow, matplotlib, NumPy)/CSS/HTML
-- 🌱 I’m currently learning algorithm, website development and deep learning
+- 👀 I know about C/Python(tensorflow, matplotlib, NumPy)/CSS/HTML/ReactJS
+- 🌱 I’m currently working on website application development, data pipeline creation, and deep learning
 - 📫 How to reach me: hanzhit@uchicago.edu
 
 <!---
